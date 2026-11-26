@@ -5,14 +5,15 @@ Perfil: @ckgestaocontabil.es · Metricool: marca 8306437, fuso America/Sao_Paulo
 ## O que fazer em cada execução
 1. Pesquisar as novidades dos últimos dias que afetam empresas clientes de um escritório contábil, em TODOS os setores:
    fiscal (Simples, MEI, Lucro Presumido, ICMS/ISS, NF-e/NFS-e, reforma tributária CBS/IBS), folha/DP (eSocial, FGTS,
-   INSS, CLT, salário mínimo, 13º, férias), contábil/societário (ECD, ECF, DEFIS, Junta) e prazos que vencem em breve.
+   INSS, CLT, salário mínimo, 13º, férias), contábil/societário/burocrático (ECD, ECF, DEFIS, Junta Comercial, CNPJ, certidões) e prazos que vencem em breve.
 2. Só publicar se for **realmente importante** para os clientes (lei/resolução nova, prazo novo, mudança de valor, obrigação
    nova). Notícia repetida, boato ou proposta ainda não aprovada → não publicar. Sem novidade importante → não publicar nada.
 3. Antes de publicar, conferir o fato em fonte oficial ou em pelo menos duas fontes confiáveis (gov.br, Receita, Planalto,
    DOU, CGSN, eSocial). Corrigir exageros (ex.: regra que vale só acima de um limite).
 4. Ver em `publicados.md` e nos agendamentos do Metricool (getScheduledPosts) se o assunto já foi tratado. Não repetir.
-5. **Nunca alterar nem apagar post já agendado.** O post extra vai num dia livre: terça, quinta ou sábado, às 10h, com o
-   story às 10h30 do mesmo dia. No máximo 1 post extra por execução.
+5. **Nunca alterar nem apagar post já agendado.** A rotina roda todo dia. O post extra vai no primeiro dia sem post agendado
+   a partir de hoje, às 10h, com o story às 10h30 do mesmo dia. Notícia com prazo curto e hoje já com post: hoje às 17h
+   (story 17h30). No máximo 1 post extra por dia.
 
 ## Como montar
 - Arte: escrever um JSON (ver o cabeçalho de `ferramenta/arte.js`), rodar `cd ferramenta && npm i && node arte.js spec.json`.
