@@ -5,6 +5,7 @@
 | 25/11/2026 | Escala 5x2 (EC 141/2026) | — |
 | 26/11/2026 | LC 239/2026: acréscimo de 20% na presunção do Lucro Presumido acima de R$ 5 mi | mixvale, jornalcontabil, mrsadvogados |
 | 27/11/2026 | Férias coletivas (CLT arts. 139–145) | CLT |
+| 28/11/2026 | MEI 2027: limite R$ 110 mil, 2 empregados, excesso em 2026 (LC 238/2026 e Res. CGSN 198/2026) | contabeis.com.br, pratica.cnt.br, carmelitas.com.br, atlaspublico.com.br, mgcontecnica.com.br |
 | 30/11/2026 | 1ª parcela do 13º vence hoje | — |
 | 02/12/2026 | Nota fiscal 2027: CBS/IBS e cClassTrib nos itens | — |
 | 04/12/2026 | Reforma tributária: o que começa em jan/2027 | — |
